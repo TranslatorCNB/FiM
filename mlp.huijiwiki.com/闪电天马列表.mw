@@ -1,0 +1,33 @@
+This is a sortable list of [[Wonderbolts]] and Wonderbolt cadets which have been mentioned or appear in [[My Little Pony Friendship is Magic]]. Ponies that are mentioned but don't appear on the show or in merchandise are [[List of ponies/Mentioned ponies|listed separately]]. '''Official names''' are in '''bold'''. These names are mentioned in the show, in Hasbro's toy line, or stated by the show's crew. Names that are not in bold are placeholder names which are unofficial and are decided according to the [[My Little Pony Friendship is Magic Wiki:Placeholder names|placeholder names policy]]. Names in <span style="color: gray">gray</span> are up for vote. Colors and times are approximate.
+
+*[[Help:List of ponies|How to add a character]]
+{{lop legend}}
+
+<!-- This list is generated from the individual lists of ponies.
+Any changes you make to those lists will appear here. -->
+{| border="1" cellpadding="1" cellspacing="1" class="wikitable sortable listofponies" style="width: 100%; text-align: center; height: 100%;"
+|-
+! style="width: 128px;" scope="col"|名字
+! style="width: 20px;" scope="col"|{{Htitle|种族|K}}
+! style="width: 20px;" scope="col"|{{Htitle|类别|G}}
+! style="width: 20px;" scope="col"|{{Htitle|体色|C}}
+! style="width: 20px;" scope="col"|{{Htitle|鬃毛颜色|M}}
+! style="width: 20px;" scope="col"|{{Htitle|眼睛颜色|E}}
+! style="width: 20px;" scope="col"|{{Htitle|首次出场（季数，集数，分钟，秒钟）|F}}
+! class="unsortable" |描述与出场
+! style="width: 150px;" class="unsortable"|图像
+|-
+|{{Cellanchor|云宝黛茜}}'''云宝黛茜'''||{{Hiddentext/Pegasus vert}}||{{Hiddentext/Mare vert}}||{{colorcell|background=hsl(195, 100%, 81%)|text=很浅的天蓝色}}||{{colorcell|background=hsl(359, 99%, 67%)|text=彩虹色：浅红色、浅亮朱红色、浅金色、中暗绿色、亮矢车菊蓝、中紫罗兰色的条带|foreground=hsl(274, 41%, 44%)}}||{{colorcell|background=hsl(326, 74%, 43%)|foreground=white|text=樱桃红}}||1<br />01<br />09<br />39||align="left"|见[[云宝黛茜]]。||[[File:Rainbow Dash Wonderbolt fantasy cropped S1E3.png|150px]]
+|-
+|{{#lst:List of ponies/Pegasus ponies|wonderbolts-primary}}
+|-
+|{{#lst:List of ponies/Pegasus ponies|wonderbolts-secondary}}
+|-
+|{{#lst:List of ponies/Pegasus ponies|wonderbolts-tertiary}}
+|-
+|{{Cellanchor|小蝶}}'''小蝶'''||{{Hiddentext/Pegasus vert}}||{{Hiddentext/Mare vert}}||{{colorcell|background=hsl(055, 94%, 82%)|text=偏灰的淡金色}}||{{colorcell|background=hsl(331, 92%, 85%)|text=偏灰的淡粉色}}||{{colorcell|background=hsl(177, 76%, 43%)|text=亮青绿色}}||1<br />01<br />13<br />51||align="left"|见[[小蝶]]。||[[File:Fluttershy ID S1E17.png|150px]]
+|-
+|{{#lst:List of ponies/Pegasus ponies|wonderbolts-cadets}}
+|-
+|{{#lst:List of ponies/Mentioned ponies|wonderbolts-mentioned}}
+|}

@@ -1,0 +1,14 @@
+__NOTOC__
+<heading title={{SITENAME}} subtitle={{站点数据}} bg=http://cdn.huiji.wiki/shareduploads/uploads/d/d7/Huijibanner_default.png />    <!--头部banner -->
+
+<div class="row no-bs-padding-on-mobile">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"><siteinfo /></div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">{{默认引言|引言=灰机是一个国内的自由兴趣维基平台。|作者=SerGawen}}{{Progressbar}}</div>
+</div>
+<div class="row no-bs-padding-on-mobile">
+{{默认分类导航|分类数=6|分类1=人物|图片1=DefaultPortalimg1.png|分类2=历史|图片2=DefaultPortalimg1.png|分类3=地理|图片3=DefaultPortalimg1.png|分类4=事件|图片4=DefaultPortalimg1.png|分类5=作品|图片5=DefaultPortalimg1.png|分类6=其他|图片6=DefaultPortalimg1.png}}
+{{灰机引导}}
+</div>
+
+
+<commentsoftheday nocache=true />
